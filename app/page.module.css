@@ -12,6 +12,7 @@
   padding: 16px;
 }
 
+
 .title {
   font-size: 1.5rem;
   font-weight: bold;
@@ -128,6 +129,7 @@
   border-radius: 8px;
   border: 1px solid gray;
   width: 100%;
+  color: white;
   cursor: pointer;
 }
 .buttons{
