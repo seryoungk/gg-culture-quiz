@@ -1,10 +1,12 @@
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+
 .container {
+  font-family: 'Pretendard', sans-serif;
   align-items: center;
   background-color: #eaf6ff;
   color: #003366;
   display: flex;
   flex-direction: column;
-  font-family: sans-serif;
   justify-content: center;
   min-height: 100vh;
   padding: 16px;
